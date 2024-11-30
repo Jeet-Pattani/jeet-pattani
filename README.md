@@ -4,17 +4,10 @@
   
 
 ### <div align="center">Hello, I'm aWeb3Dev 👨‍💻,</div>  
-  
 
 - 🔭 I’m currently working on Remix IDE clone  
-  
-
 - 🌱 I’m currently learning Solana and TON development  
-  
-
 - ❓ Love to Explore web3 and AI  
-  
-
 - ⚡ Looking to integrate Web3 and LLMs  
   
 
