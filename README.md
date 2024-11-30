@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello, I'm aWeb3Dev 👨‍💻,</div>  
+### <div style="font-size: 3rem;margin-left:1rem">Hello, I'm aWeb3Dev 👨‍💻,</div>  
 
 - 🔭 I’m currently working on Remix IDE clone  
 - 🌱 I’m currently learning Solana and TON development  
