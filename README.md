@@ -1,9 +1,12 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div style="font-size: 3rem;margin-left:1rem">Hello, I'm aWeb3Dev 👨‍💻,</div>  
+
+# Hello, Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
+
+Nice to meet you,
+
+## whoami 🤠
+
+I'm a Fullstack Web3 Dev👨‍💻
 
 - 🔭 I’m currently working on Remix IDE clone  
 - 🌱 I’m currently learning Solana and TON development  
@@ -12,7 +15,6 @@
   
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
